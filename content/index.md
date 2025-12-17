@@ -1,14 +1,14 @@
-# Tolkien Fan Club
+# EidolexTheMysterial's Flotsam & Jetsam
 
 ![JRR Tolkien sitting](/images/tolkien.png)
 
-Here's the deal, **I like Tolkien**.
+Here's the beginning of **my site**.
 
 > "I am in fact a Hobbit in all but size."
 >
 > -- J.R.R. Tolkien
 
-## Blog posts
+## My blogs
 
 - [Why Glorfindel is More Impressive than Legolas](/blog/glorfindel)
 - [Why Tom Bombadil Was a Mistake](/blog/tom)
@@ -37,7 +37,7 @@ Here's what `elflang` looks like (the perfect coding language):
 
 ```
 func main(){
-    fmt.Println("Aiya, Ambar!")
+    fmt.Println("That's Some Code!")
 }
 ```
 
