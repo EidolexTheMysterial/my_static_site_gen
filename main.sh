@@ -1,3 +1,4 @@
+#!/bin/zsh
 
 cur_script=${0/#.\//}
 
