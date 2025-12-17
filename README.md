@@ -1,2 +1,2 @@
 # static_site_gen
-Repo for Boot.dev Static Site Generator course
+Repo for Boot.dev My Static Site Generator site
